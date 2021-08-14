@@ -259,3 +259,10 @@ class Foo
   end
 end
 ```
+
+- テスト用エディット
+
+```
+def Foo
+end
+```
